@@ -1,22 +1,18 @@
-- name: GitHub
-  url: http://github.com/phlow
-  class: icon-github
-  title: Code und mehr...
+#- title: GitHub
+#  url: https://github.com/yourusername
+#  class: icon-github
 
-- name: YouTube
-  url: http://www.youtube.com/PhlowMedia
-  class: icon-youtube
-  title: "Videos, Video-Anleitungen und Filme von Phlow auf YouTube"
+#- title: YouTube
+#  url: https://youtube.com/yourchannel
+#  class: icon-youtube
 
-- name: Twitter
-  url: http://twitter.com/phlow
-  class: icon-twitter
-  title: "Immer das Neuste von Phlow gibt es auf Twitter"
+- title: LinkedIn
+  url: https://www.linkedin.com/in/yasmine-mustafa/
+  class: icon-linkedin
 
-- name: Mixcloud
-  url: http://www.mixcloud.com/phlow/
-  class: icon-cloud
-  title: "Mixe, was sonst?"
+- title: Email
+  url: mailto:yam64@mst.edu
+  class: icon-envelope
 
 # - name: Facebook
 #   url: http://www.facebook.com/
