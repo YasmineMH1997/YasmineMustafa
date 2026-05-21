@@ -5,28 +5,30 @@ permalink: /
 header:
   image_fullwidth: "logom.png"
   title: "Yasmine Mustafa"
-  subheadline: "PhD Candidate, Missouri University of Science and Technology — Machine Learning for Healthcare"
+  subheadline: "Artificial Intelligence • Multimodal Learning • Trustworthy AI"
 ---
 
 <!-- ===== Inline subheadline row (shows even if layout doesn't render subheadline) ===== -->
 <div style="display:flex;align-items:center;gap:12px;margin:10px 0 20px 0;">
   <img src="{{ site.urlimg }}logos/mst_logo.png" alt="Missouri S&T" style="height:36px;">
-  <div><strong>PhD Candidate, Missouri University of Science and Technology</strong> — Machine Learning for Healthcare</div>
+  <div><strong>PhD, Missouri University of Science and Technology</strong> — Artificial Intelligence, Multimodal Learning, and Trustworthy AI</div>
 </div>
 
 <!-- ===== Quick Highlights (3-up) ===== -->
 <div class="row t20">
   <div class="medium-4 columns">
-    <h3>Multimodal Medical AI</h3>
-    <p>Vision Transformers + MRI/PET + clinical text. Focused on anatomically informed attention and trustworthiness.</p>
+    <h3>Multimodal AI</h3>
+    <p>Research in transformers, multimodal learning, and representation learning across imaging, language, and structured data.</p>
   </div>
+
   <div class="medium-4 columns">
-    <h3>Explainability</h3>
-    <p>Jacobian-based maps, Grad-CAM, and head pruning for interpretable, reliable decision making.</p>
+    <h3>Trustworthy AI</h3>
+    <p>Interpretable and robust machine learning methods including explainability, attention analysis, and reliable AI systems.</p>
   </div>
+
   <div class="medium-4 columns">
-    <h3>Open to Speaking</h3>
-    <p>Invited talks, panels, and guest lectures on multimodal neuroimaging and trustworthy AI.</p>
+    <h3>Teaching & Outreach</h3>
+    <p>Interested in teaching, mentoring, interdisciplinary collaboration, invited talks, and applied AI education.</p>
   </div>
 </div>
 
@@ -97,9 +99,9 @@ header:
 <!-- ===== Invite / CTA ===== -->
 <div class="callout panel">
   <h3>Let’s collaborate</h3>
-  <p>Open to research collaborations, industry internships, and speaking invitations.</p>
+  <p>Open to faculty positions, research collaborations, speaking invitations, and interdisciplinary projects involving artificial intelligence, healthcare AI, and multimodal learning.</p>
   <p>
-    <a class="button tiny radius" href="{{ '/resume/' | relative_url }}">View Resume</a>
+    <a class="button tiny radius" href="{{ '/resume/' | relative_url }}">View CV</a>
     <a class="button tiny secondary radius" href="{{ '/contact/' | relative_url }}">Contact Me</a>
   </p>
 </div>
