@@ -1,24 +1,26 @@
+
 - title: "Home"
   url: "/"
   side: left
-
-
 
 - title: "About Me"
   url: "/about/"
   side: left
 
-- title: "Blog"
-  url: "/blog/"
+- title: "Publications"
+  url: "/publications/"
+  side: left
+
+- title: "Teaching"
+  url: "/teaching/"
+  side: left
+
+- title: "Service"
+  url: "/service/"
   side: left
 
 - title: "Resume"
   url: "/resume/"
-  side: left
-
-
-- title: "Publications"
-  url: "/publications/"
   side: left
 
 - title: "Contact Me"
